@@ -1,4 +1,4 @@
-package com.xiaor.wrjcommom.utils;
+package com.xiaor.wrjcommon.utils;
 
 /**
  * @author xiaoR

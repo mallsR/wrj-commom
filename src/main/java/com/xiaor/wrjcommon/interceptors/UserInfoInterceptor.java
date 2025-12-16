@@ -1,7 +1,7 @@
-package com.xiaor.wrjcommom.interceptors;
+package com.xiaor.wrjcommon.interceptors;
 
 import cn.hutool.core.util.StrUtil;
-import com.xiaor.wrjcommom.utils.UserContext;
+import com.xiaor.wrjcommon.utils.UserContext;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
